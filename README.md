@@ -1,4 +1,4 @@
-# CSS-Project1
+# Project-1
 
 
 ![download](https://user-images.githubusercontent.com/86450108/181666400-35e4f49c-0a93-4462-bc12-c51634d7a51b.png)
